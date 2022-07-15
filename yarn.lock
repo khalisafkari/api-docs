@@ -2363,8 +2363,8 @@ supports-color@^6.1.0:
     has-flag "^3.0.0"
 
 svelte@^3.6.5:
-  version "3.17.1"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.17.1.tgz#71aedbfb5bf831dad7b00a944f2fdded6b482184"
+  version "3.49.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.49.0.tgz#5baee3c672306de1070c3b7888fc2204e36a4029"
 
 table@^5.2.3:
   version "5.4.6"
